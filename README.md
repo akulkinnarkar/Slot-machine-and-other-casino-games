@@ -1,4 +1,4 @@
-# Slot-machine-and-other-casino-games
+# Slot-machine
 This repository consists of python code which can run casino like games. 
 
 This code was writen in a Jupyter Notebook environment and hence might not work the best in IDEs due to the fact that it was built with multiple code blocks running in parallel. The code will still run but the user interface won't be as friendly.
